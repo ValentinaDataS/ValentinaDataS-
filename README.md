@@ -16,7 +16,7 @@ cleaned and prepared data using Python (pandas,NumPy),build interactive Power BI
 #### Microsoft Excel
 #### Google sheets 
 ## 📉  What I Do
-Data Cleaning & Preparation, Exploratory Data Analysis (EDA), Data Visualization & Dashboarding, and Business Intelligence Reporting.
+#### Data Cleaning & Preparation, Exploratory Data Analysis (EDA), Data Visualization & Dashboarding, and Business Intelligence Reporting, Statistical Analysis, and Machine Learning Fundamentals 
 ---
 ## Connect With Me
 LinkedIn:https://www.linkedin.com/in/chidimma-valentina-a2a796391
