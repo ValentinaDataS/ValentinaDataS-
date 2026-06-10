@@ -20,4 +20,4 @@ cleaned and prepared data using Python (pandas,NumPy),build interactive Power BI
 ---
 ## Connect With Me
 LinkedIn:https://www.linkedin.com/in/chidimma-valentina-a2a796391
-#### Always Learning, building, and improving in Data Science & Analytics 
+#### 🌟 Always Learning, building, and improving in Data Science & Analytics 
