@@ -9,12 +9,12 @@ cleaned and prepared data using Python (pandas,NumPy),build interactive Power BI
 🔗 View project respository on my GitHub
 ---
 ## ⚙ Tools & Technologies
-####Python (pandas, NumPy),
-####Power BI, 
-####Jupyter Notebook,
-####SQL
-####Microsoft Excel
-####Google sheets 
+#### Python (pandas, NumPy),
+#### Power BI, 
+#### Jupyter Notebook,
+#### SQL
+#### Microsoft Excel
+#### Google sheets 
 ## 📉  What I Do
 Data Cleaning & Preparation, Exploratory Data Analysis (EDA), Data Visualization & Dashboarding, and Business Intelligence Reporting.
 ---
