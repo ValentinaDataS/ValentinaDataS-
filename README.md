@@ -6,8 +6,9 @@ I specialize in turning raw data into actionable business insights through data 
 ### Shopify Trending products 2025 Analysis Dashboard
 📍 End-end data analysis project using Python and Power BI to identify products trnds and revenue opportunities.
 cleaned and prepared data using Python (pandas,NumPy),build interactive Power BI dashboard, identified high-opportunity products, and generated business insights for decision-making.
-🔗 View project respository on my GitHub
+🔗 View project respository on my GitHub 
 ---
+https://github.com/ValentinaDataS/Shopify-trending-products-2025-analysis
 ## ⚙ Tools & Technologies
 #### Python (pandas, NumPy),
 #### Power BI, 
